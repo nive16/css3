@@ -1,0 +1,45 @@
+h1{
+	
+	
+	background-color: rgba(255,255,0,0.2);
+	font-style: oblique;
+	color: rgba(255,0,0,0.5);
+	text-align: center;
+}
+
+h2{
+	font-style: italic;
+	background-color: pink;
+}
+
+
+div{
+	display: inline-block;
+	height: 250px;
+	width: 250px;
+	background-color: rgba(0,0,255,0.1);
+	overflow: visible;
+}
+
+span{
+	display: inline-block;
+	height: 250px;
+	width: 250px;
+	background-color: rgba(0,255,0,0.3);
+	overflow: hidden;
+}
+
+p{
+	display: inline-block;
+	height: 250px;
+	width: 250px;
+	background-color: rgba(238,130,238,0.2);
+	overflow: scroll;
+}
+
+figure{
+	display: inline-block;
+	height: 350px;
+	width:350px;
+	overflow: auto;
+}

@@ -1,0 +1,18 @@
+h1{
+	background-color: pink;
+	font-style: oblique;
+}
+
+p{
+	background-color: rgba(0,0,255,0.1);
+	visibility: visible;
+}
+
+figure{
+	visibility: hidden;
+}
+
+table{
+	background-color: rgba(0,255,0,0.3);
+	visibility: collapse;
+}
