@@ -1,0 +1,43 @@
+
+h1{
+	background-color: pink;
+	font-style: oblique;
+	text-align: center;
+}
+h2{
+	background-color: rgba(255,0,0,0.1);
+	font-style: italic;
+	color: rgb(0,0,255);
+}
+
+span{
+	height: 10%;
+	width: 10%;
+	background-color: rgba(0,255,0,0.1);
+	display: block;
+
+}
+
+div{
+	background-color: rgba(0,255,255,0.2);
+	display: inline;
+}
+
+p{
+	height: 25%;
+	width: 25%;
+	display: inline-block;
+	background-color: yellow;
+
+}
+
+a{
+	width: 50%;
+	height: 50%;
+	display: inline-block;
+	background-color: rgba(0,0,255,0.3);
+}
+
+h3{
+	display: none;
+}
