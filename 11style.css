@@ -1,0 +1,36 @@
+h1{
+	text-transform: uppercase;
+	color: #000080;
+	text-align: center;
+	background-color: (255,255,0,0.1);
+}
+
+ol{
+	display: inline-block;
+	width: 250px;
+
+	background-color: rgba(0,0,255,0.1);
+	font-style: italic;
+	font-family: verdana;
+	color: rgb(200,0,0);
+    list-style-type: upper-roman;
+    margin: 10px;
+    padding: 50px;
+}
+
+ul{
+	display: inline-block;
+	width: 250px;
+	background-color: rgba(0,0,255,0.1);
+	font-style: italic;
+	font-family: verdana;
+	color: rgb(200,0,0);
+    list-style-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/lightning.png");
+    margin: 10px;
+    padding: 50px;
+
+}
+
+body{
+	background-color: rgba(255,165,0,0.1);
+}
